@@ -8,8 +8,8 @@ import java.net.http.HttpResponse;
 import java.util.Scanner;
 
 public class WeatherDetails {
-    // api = d012fe60b0a968b0ee30ac271515f031
-    // https://api.openweathermap.org/data/2.5/weather?q={Dhaka}&appid=d012fe60b0a968b0ee30ac271515f031
+    // api = d012fe60b0a968b0ee30ac*********
+    // https://api.openweathermap.org/data/2.5/weather?q={Dhaka}&appid=d012fe60b0a968b0ee30ac********* // api HIDE
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
